@@ -1,0 +1,15 @@
+/*TAG SELECTORS*/
+h1{
+  color: red;
+}
+/*ID SELECTORS*/
+img {
+  background-color: green;
+}
+
+img:hover {
+  background-color: gold;
+}
+.circular {
+  border-radius: 50px;
+}
