@@ -3,6 +3,9 @@ body {
   background-color: #c8dad3;
   font-family: sans-serif;
 }
+h1 {
+  font-size: 3rem;
+}
 .profile-pic {
   border-radius: 200px;
 }
